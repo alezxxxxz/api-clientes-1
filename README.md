@@ -15,7 +15,6 @@ API REST desenvolvida com Node.js, Express e MySQL.
 
 ```text
 api-clientes/
-├── .env
 ├── .gitignore
 ├── db.js
 ├── index.js
