@@ -80,7 +80,7 @@ CREATE TABLE IF NOT EXISTS itens_pedido (
 
 INSERT INTO clientes (nome, email, telefone, status)
 VALUES
-('João Silva', 'joao@email.com', '47999999999', 'ativo');
+('José Diaz', 'jose@email.com', '47998997699', 'ativo');
 
 
 INSERT INTO produtos (nome, descricao, preco, estoque, status)
